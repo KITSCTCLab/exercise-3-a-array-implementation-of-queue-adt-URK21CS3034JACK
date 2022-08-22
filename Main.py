@@ -32,7 +32,7 @@ class Solution:
 
  def is_queue_empty(self):
  """
- Check whether the queue is empty.
+ Check whether the queue is empty
  Returns:
  True if it is empty, else returns False.
  """
